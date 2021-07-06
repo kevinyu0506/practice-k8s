@@ -1,0 +1,5 @@
+resources:
+  - ./redis/redis-leader-deployment.yaml
+  - ./redis/redis-leader-service.yaml
+  - ./redis/redis-follower-deployment.yaml
+  - ./redis/redis-follower-service.yaml
